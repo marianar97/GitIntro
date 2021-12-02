@@ -1,2 +1,2 @@
 # GitIntro
-This is the third assesment of introduction to git and Github
+I am editing the README file. Adding some more details about the project description.
